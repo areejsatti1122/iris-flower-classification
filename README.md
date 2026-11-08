@@ -26,7 +26,7 @@ Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · VS Code ·
 8. Predict the species of new flowers
 
 ## 📊 Results
-All three models reached about **93–97% accuracy** on the test data. Results vary slightly between runs because the train/test split is random.
+SVM achieved the best accuracy (93.3%), followed by Logistic Regression (90.0%) and Decision Tree (86.7%). Results vary slightly between runs because the train/test split is random.
 
 ## ▶️ How to Run
 **Google Colab:** Upload `iris_classification.ipynb`, upload `iris.data` through the folder icon, then click **Runtime → Run all**.
